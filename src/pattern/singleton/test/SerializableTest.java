@@ -18,11 +18,11 @@ public class SerializableTest {
 
         SerializableSingleton s1 = SerializableSingleton.getInstance();
         try {
-            FileOutputStream output = new FileOutputStream("SerializableSingleton.obj");
+            FileOutputStream output = new FileOutputStream("Serializable.obj");
             ObjectOutputStream objOutput = new ObjectOutputStream(output);
             objOutput.writeObject(s1);
 
-            FileInputStream input = new FileInputStream("SerializableSingleton.obj");
+            FileInputStream input = new FileInputStream("Serializable.obj");
             ObjectInputStream ois = new ObjectInputStream(input);
             SerializableSingleton s2 =(SerializableSingleton) ois.readObject();
             ois.close();
