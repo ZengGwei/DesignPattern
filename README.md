@@ -1,6 +1,7 @@
 # designPattern
 设计模式，spring中设计模式
-
+设计模式之间的关系图
+![](https://github.com/ZengGwei/designPattern/blob/master/src/img/patter.png)
 1.设计模式在应用中遵循六大原则：
 
 a、开闭原则（Open Close Principle）
@@ -21,5 +22,4 @@ e、迪米特法则（最少知道原则）（Demeter Principle）
 f、合成复用原则（Composite Reuse Principle）
 原则是尽量使用合成/聚合的方式，而不是使用继承。
 
-设计模式之间的关系图
-![](https://github.com/ZengGwei/designPattern/blob/master/src/img/patter.png)
+
