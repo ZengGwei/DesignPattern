@@ -1,5 +1,6 @@
 # designPattern
 设计模式，spring中设计模式
+
 1.设计模式在应用中遵循六大原则：
 
 a、开闭原则（Open Close Principle）
