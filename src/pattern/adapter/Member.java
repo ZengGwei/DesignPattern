@@ -1,7 +1,7 @@
 package pattern.adapter;
 
 /**
- * 〈〉
+ * 〈适配器模式〉
  *
  * @author gw.Zeng
  * @create 2018/7/5

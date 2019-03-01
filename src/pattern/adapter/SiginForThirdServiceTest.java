@@ -3,7 +3,7 @@ package pattern.adapter;
 import pattern.adapter.server.UserThirdService;
 
 /**
- * 〈〉
+ * 〈适配器模式〉
  *
  * @author gw.Zeng
  * @create 2018/7/5

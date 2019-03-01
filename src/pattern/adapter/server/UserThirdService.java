@@ -4,7 +4,7 @@ import pattern.adapter.Member;
 import pattern.adapter.ResultMsg;
 
 /**
- * 〈〉
+ * 〈适配器模式〉
  *稳定的方法不去动，直接继承下来
  * @author gw.Zeng
  * @create 2018/7/5
