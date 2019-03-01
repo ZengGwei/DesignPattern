@@ -5,7 +5,7 @@ import java.lang.reflect.Method;
 
 /**
  * 〈JDK代理（拼夕夕夕夕）〉
- *
+ *代理模式
  * @author gw.Zeng
  * @create 2018/6/18
  * @since 1.0.0

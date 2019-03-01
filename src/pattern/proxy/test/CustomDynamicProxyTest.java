@@ -4,7 +4,7 @@ import pattern.proxy.customer.CustomProxyPinduoduo;
 import pattern.proxy.jdkdynamicproxy.PaperFactory;
 import pattern.proxy.staticproxy.Factory;
 
-/**
+/**代理模式
  * 〈自定义动态代理测试〉
  *
  * @author gw.Zeng

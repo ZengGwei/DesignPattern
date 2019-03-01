@@ -1,7 +1,7 @@
 package pattern.proxy.staticproxy;
 
 /**
- * 〈〉
+ * 〈代理模式〉
  *
  * @author gw.Zeng
  * @create 2018/6/18

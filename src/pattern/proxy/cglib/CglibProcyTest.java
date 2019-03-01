@@ -5,7 +5,7 @@ import pattern.proxy.staticproxy.Factory;
 import pattern.proxy.staticproxy.ShoeFactory;
 
 /**
- * 〈〉
+ * 〈代理模式〉
  *
  * @author gw.Zeng
  * @create 2019/2/22

@@ -12,7 +12,7 @@ import java.io.FileWriter;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Method;
 
-/**
+/**代理模式
  * 〈自定义代理类 〉
  * //字节码重组过程 原理：
  *

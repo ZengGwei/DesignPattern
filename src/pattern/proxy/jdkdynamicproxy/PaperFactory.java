@@ -4,7 +4,7 @@ import pattern.proxy.staticproxy.Factory;
 
 /**
  * 〈纸巾生产厂〉
- *
+ *代理模式
  * @author gw.Zeng
  * @create 2018/6/18
  * @since 1.0.0

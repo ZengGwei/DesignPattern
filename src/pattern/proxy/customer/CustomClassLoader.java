@@ -7,7 +7,7 @@ import java.io.IOException;
 
 /**
  * 〈自定义类加载器〉
- *
+ *代理模式
  * @author gw.Zeng
  * @create 2018/6/18
  * @since 1.0.0

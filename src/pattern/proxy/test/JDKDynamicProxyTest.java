@@ -9,7 +9,7 @@ import java.io.FileOutputStream;
 
 /**
  * 〈jdk动态代理测试〉
- *
+ *代理模式
  * @author gw.Zeng
  * @create 2018/6/18
  * @since 1.0.0
