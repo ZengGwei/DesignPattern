@@ -1,7 +1,7 @@
 package pattern.protortype.deepcopy;
 
 /**
- * 〈〉
+ * 〈原型模式〉
  *
  * @author gw.Zeng
  * @create 2018/6/17

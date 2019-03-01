@@ -4,7 +4,7 @@ import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
 
 import java.util.ArrayList;
 
-/**
+/**原型模式
  * 〈浅拷贝〉
  *1.浅拷贝，即是赋值拷贝，拷贝对象有引用类型是，引用指向同一个对象。
  * @author gw.Zeng

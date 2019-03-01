@@ -2,7 +2,7 @@ package pattern.protortype.simplecopy;
 
 import java.util.List;
 
-/**
+/**原型模式
  * 〈复制对象〉
  *  1.浅复制
  * @author gw.Zeng
