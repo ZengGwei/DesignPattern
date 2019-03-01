@@ -4,7 +4,7 @@ import pattern.factory.LegoBlocks;
 import pattern.factory.Toys;
 
 /**
- * 〈〉
+ * 〈工厂方法模式〉
  *
  * @author gw.Zeng
  * @create 2018/6/16

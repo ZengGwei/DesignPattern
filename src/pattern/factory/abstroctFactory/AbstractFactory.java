@@ -3,7 +3,7 @@ package pattern.factory.abstroctFactory;
 import pattern.factory.Toys;
 
 /**
- * 〈抽象工厂方法〉
+ * 〈抽象工厂方法工厂方法模式〉
  * 抽象工厂是用户的主入口
  * 在Spring中应用得最为广泛的一种设计模式易于扩展
  * @author gw.Zeng

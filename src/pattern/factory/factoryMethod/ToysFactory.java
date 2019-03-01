@@ -3,7 +3,7 @@ package pattern.factory.factoryMethod;
 import pattern.factory.Toys;
 
 /**
- * 〈工厂方法模式〉
+ * 〈工厂方法模式工厂方法模式〉
  *
  * 为了将对象的创建和使用相分离，采用工厂模式,即应用程序将对象的创建及初始化职责交给工厂对象.
  *
