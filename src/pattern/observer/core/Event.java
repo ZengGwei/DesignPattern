@@ -3,7 +3,7 @@ package pattern.observer.core;
 import java.lang.reflect.Method;
 
 /**
- * 〈〉
+ * 〈观察者模式〉
  * 事件
  * @author gw.Zeng
  * @create 2018/7/8

@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * 〈〉
+ * 〈观察者模式〉
  *事件的注册和监听
  * @author gw.Zeng
  * @create 2018/7/8

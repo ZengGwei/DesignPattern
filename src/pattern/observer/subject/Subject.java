@@ -3,7 +3,7 @@ package pattern.observer.subject;
 import pattern.observer.core.EventListener;
 
 /**
- * 〈〉
+ * 〈观察者模式〉
  *
  * @author gw.Zeng
  * @create 2018/7/8

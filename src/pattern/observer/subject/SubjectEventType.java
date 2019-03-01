@@ -1,7 +1,7 @@
 package pattern.observer.subject;
 
 /**
- * 〈〉
+ * 〈观察者模式〉
  *
  * @author gw.Zeng
  * @create 2018/7/8

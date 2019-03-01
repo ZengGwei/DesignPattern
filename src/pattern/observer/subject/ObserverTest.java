@@ -5,7 +5,7 @@ import pattern.observer.core.Event;
 import java.lang.reflect.Method;
 
 /**
- * 〈〉
+ * 〈观察者模式〉
  *
  * @author gw.Zeng
  * @create 2018/7/8
