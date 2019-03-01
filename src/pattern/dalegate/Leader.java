@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * 〈〉
+ * 〈委派模式非23中设计经典模式〉
  *
  * @author gw.Zeng
  * @create 2018/7/2
