@@ -2,7 +2,7 @@ package pattern.singleton.seriable;
 
 import java.io.Serializable;
 
-/**
+/**单例模式
  * 〈反序列化 破坏单例〉
  *
  * @author gw.Zeng

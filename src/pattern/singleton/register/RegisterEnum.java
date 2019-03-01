@@ -2,7 +2,7 @@ package pattern.singleton.register;
 
 import org.omg.CORBA.PUBLIC_MEMBER;
 
-/**
+/**单例模式
  * 〈单例-枚举实现〉
  *
  * @author gw.Zeng

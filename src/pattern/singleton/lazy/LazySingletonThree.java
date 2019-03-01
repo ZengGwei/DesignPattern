@@ -1,6 +1,6 @@
 package pattern.singleton.lazy;
 
-/**
+/**单例模式
  * 〈懒汉式单例 三〉
  *
  * 特点：

@@ -3,7 +3,7 @@ package pattern.singleton.register;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
-/**
+/**单例模式
  * 〈spring中实现单例 采用注册式 〉
  *
  * @author gw.Zeng
