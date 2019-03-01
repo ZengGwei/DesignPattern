@@ -1,6 +1,6 @@
 package pattern.strategy.travel;
 
-/**
+/**策略模式
  * 〈出游〉
  *
  * @author gw.Zeng

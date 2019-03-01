@@ -2,7 +2,7 @@ package pattern.strategy.travel;
 
 import pattern.strategy.TravelState;
 
-/**
+/**策略模式
  * 〈火车〉
  *
  * @author gw.Zeng

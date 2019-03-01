@@ -2,7 +2,7 @@ package pattern.strategy;
 
 import pattern.strategy.travel.TravelType;
 
-/**
+/**策略模式
  * 〈出行交通〉
  *
  * @author gw.Zeng
