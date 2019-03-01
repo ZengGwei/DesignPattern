@@ -8,7 +8,7 @@ import java.sql.ResultSet;
 import java.util.List;
 
 /**
- * 〈〉
+ * 〈模板模式〉
  * 解耦
  *
  * @author gw.Zeng

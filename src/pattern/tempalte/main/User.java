@@ -1,7 +1,7 @@
 package pattern.tempalte.main;
 
 /**
- * 〈〉
+ * 〈模板模式〉
  *
  * @author gw.Zeng
  * @create 2019/2/25

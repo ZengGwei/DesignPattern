@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 〈〉
+ * 〈模板模式〉
  * Jdbc模板模式
  *
  * @author gw.Zeng

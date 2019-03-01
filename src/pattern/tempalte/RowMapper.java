@@ -3,7 +3,7 @@ package pattern.tempalte;
 import java.sql.ResultSet;
 
 /**
- * 〈〉
+ * 〈模板模式〉
  *
  * @author gw.Zeng
  * @create 2018/07/01
